@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725982340239",
+    "project_id": "memhut-cc340",
+    "storage_bucket": "memhut-cc340.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725982340239:android:4f3bcb259390ec5ef43cfa",
+        "android_client_info": {
+          "package_name": "com.astechnologies.memhut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725982340239-qecq63t8butgtqs60b7tvsndgis1hhhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7WyIOPMt-U4AEqE-On3z3u9vI2fLW3mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725982340239-qecq63t8butgtqs60b7tvsndgis1hhhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

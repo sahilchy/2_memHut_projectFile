@@ -27,7 +27,7 @@ import com.google.firebase.database.ValueEventListener;
 import com.google.gson.Gson;
 import com.muddzdev.styleabletoastlibrary.StyleableToast;
 import com.astechnologies.memhut.model.ModelUser;
-import com.astechnologies.memhut.R;
+import astechnologies.memhut.R;
 import com.astechnologies.memhut.notifications.Data;
 import com.astechnologies.memhut.notifications.Sender;
 import com.astechnologies.memhut.notifications.Token;

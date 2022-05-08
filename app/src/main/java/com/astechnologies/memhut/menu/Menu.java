@@ -74,7 +74,7 @@ public class Menu extends AppCompatActivity {
             startActivity(intent);
         });
         invite.setOnClickListener(v -> {
-            String shareBody = "Myfriends - Friends Social Network" + " Download now on play store \nhttps://play.google.com/store/apps/details?id=com.astechnologies.memhut";
+            String shareBody = "MemHut - Friends Social Network" + " Download now on play store \nhttps://play.google.com/store/apps/details?id=com.astechnologies.memhut";
             Intent intent = new Intent(Intent.ACTION_SEND);
             intent.setType("text/*");
             intent.putExtra(Intent.EXTRA_SUBJECT,"Subject Here");

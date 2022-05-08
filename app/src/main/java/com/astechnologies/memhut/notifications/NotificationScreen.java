@@ -17,7 +17,7 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 import com.astechnologies.memhut.adapter.AdapterNotify;
 import com.astechnologies.memhut.model.ModelNotification;
-import com.astechnologies.memhut.R;
+import astechnologies.memhut.R;
 import com.astechnologies.memhut.SharedPref;
 
 import java.util.ArrayList;

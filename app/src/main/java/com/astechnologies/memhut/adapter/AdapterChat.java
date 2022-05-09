@@ -1,5 +1,5 @@
 package com.astechnologies.memhut.adapter;
-
+//Test for GITHUB PUSH
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.Intent;
@@ -40,6 +40,7 @@ public class AdapterChat extends RecyclerView.Adapter<AdapterChat.MyHolder>{
     public static final int MSG_TYPE_RIGHT = 1;
 
     private final Context context;
+    public int GITHUBNAME;
     private final List<ModelChat> modelChats;
 
     FirebaseUser firebaseUser;
